@@ -38,5 +38,6 @@
   "allowScripts": {
     "prisma@7.10.1": true,
     "@prisma/engines@7.10.1": true
-  }
+  },
+  "version": "1.0.0"
 }
